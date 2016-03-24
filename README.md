@@ -8,3 +8,4 @@ mac's osx setup for developers
 3.  install macvim
 4.  install zsh
 5.  install vimrc
+6.  install [latex](http://www.tug.org/mactex/alternateinstall.html)
